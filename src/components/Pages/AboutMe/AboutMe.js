@@ -18,6 +18,7 @@ const AboutMe = () => {
                 never give up and never keep any project incomplete.
               </p>
             </div>
+            
           </Col>
         </Row>
       </Container>
